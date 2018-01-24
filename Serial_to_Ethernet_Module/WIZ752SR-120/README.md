@@ -9,7 +9,7 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 **WIZ752SR-120 is the best fit solution to control user's serial device via Ethernet network.**
 
 
-----
+
 
 ## Features
 
@@ -32,14 +32,20 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 - Operation Temperature : -40℃ ~ 85℃
 - Dimensions : 50.00(W) x 30.00(L) x 9.00(H) (Unit : mm)
 
-----
+
 
 ##Blockdiagram
 ![WIZ752SR-120 Blockdiagram](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_blockdiagram.png)
+
+
 ##Callout
 ![WIZ752SR-120 Callout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_callout.png)
+
+
 ##Pinout
 ![WIZ752SR-120 Pinout](https://github.com/Wiznet/Hardware-Files-of-WIZnet/blob/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_pinout.png?raw=true)
+
+
 ##Dimension 
 ![WIZ752SR-120 Dimension](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_Dimension.png)
 
