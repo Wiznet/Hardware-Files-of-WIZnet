@@ -49,6 +49,8 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 
 ![WIZ752SR-125 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_pinout.png)
 
+![WIZ752SR-125 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_dsub.png)
+
 
 ## Dimension
 
