@@ -13,7 +13,7 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 
 **WIZ752SR-120 is the best fit solution to control user's serial device via Ethernet network.**
 
- [*++==**WIZ752SR-120 Official Wiki page**==++*](https://wizwiki.net/wiki/doku.php?id=products:s2e_module:wiz752sr-120:start)
+ [***WIZ752SR-120 Official Wiki page***](https://wizwiki.net/wiki/doku.php?id=products:s2e_module:wiz752sr-120:start)
 
 
 ## Features
