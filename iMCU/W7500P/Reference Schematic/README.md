@@ -1,5 +1,5 @@
 # W7500P Reference Schematic
-##Revison History
+## Revison History
 
 #### V1.3 
 - Update date : 2018/02/05
