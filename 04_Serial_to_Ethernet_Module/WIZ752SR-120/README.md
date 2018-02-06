@@ -41,21 +41,21 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 
 ## Blockdiagram
 
-![WIZ752SR-120 Blockdiagram](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_blockdiagram.png)
+![WIZ752SR-120 Blockdiagram](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_blockdiagram.png)
 
 
 ## Callout
 
-![WIZ752SR-120 Callout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_callout.png)
+![WIZ752SR-120 Callout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_callout.png)
 
 
 ## Pinout
 
-![WIZ752SR-120 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_pinout.png)
+![WIZ752SR-120 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_pinout.png)
 
 
 ## Dimension
 
-![WIZ752SR-120 Dimension](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_Dimension.png)
+![WIZ752SR-120 Dimension](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_Dimension.png)
 
 

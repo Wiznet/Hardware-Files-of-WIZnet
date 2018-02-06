@@ -37,23 +37,23 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 
 ## Blockdiagram
 
-![WIZ752SR-125 Blockdiagram](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_blockdiagram.png)
+![WIZ752SR-125 Blockdiagram](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_blockdiagram.png)
 
 
 ## Callout
 
-![WIZ752SR-125 Callout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_callout.png)
+![WIZ752SR-125 Callout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_callout.png)
 
 
 ## Pinout
 
-![WIZ752SR-125 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_pinout.png)
+![WIZ752SR-125 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_pinout.png)
 
-![WIZ752SR-125 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_dsub.png)
+![WIZ752SR-125 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_dsub.png)
 
 
 ## Dimension
 
-![WIZ752SR-125 Dimension](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_Dimension.png)
+![WIZ752SR-125 Dimension](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-125/Pictures/WIZ752SR-125_Dimension.png)
 
 
