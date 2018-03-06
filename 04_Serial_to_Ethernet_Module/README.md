@@ -12,8 +12,8 @@ WIZnet S2E module supports a wide range of pin header types and hardware interfa
 
 - ~~WIZ750SR~~
 - ~~WIZ750SR-100~~
-- ~~WIZ750SR-105~~
-- ~~WIZ750SR-110~~
+- WIZ750SR-105
+- WIZ750SR-110
 - ~~WIZ550SR~~
 - ~~WIZ550S2E~~
 - ~~WIZ107SR~~

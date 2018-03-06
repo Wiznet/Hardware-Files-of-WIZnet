@@ -6,6 +6,8 @@
 
 ## Overview
 
+![WIZ752SR-120](Pictures/WIZ752SR-120.png)
+
 WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethernet MCU (SoC based on ARM Cortex-M0 architecture) with External PHY(IC+). WIZ752SR-120 is a protocol converter that transmits data sent by serial equipment as TCP/IP data and converts the TCP/IP data received through the network back into serial data to the serial equipment. It complies with industrial temperature standard.
 
 
@@ -41,21 +43,21 @@ WIZ752SR-120 is a compact sized serial to Ethernet module using the W7500 Ethern
 
 ## Blockdiagram
 
-![WIZ752SR-120 Blockdiagram](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_blockdiagram.png)
+![WIZ752SR-120 Blockdiagram](Pictures/WIZ752SR-120_blockdiagram.png)
 
 
 ## Callout
 
-![WIZ752SR-120 Callout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_callout.png)
+![WIZ752SR-120 Callout](Pictures/WIZ752SR-120_callout.png)
 
 
 ## Pinout
 
-![WIZ752SR-120 Pinout](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_pinout.png)
+![WIZ752SR-120 Pinout](Pictures/WIZ752SR-120_pinout.png)
 
 
 ## Dimension
 
-![WIZ752SR-120 Dimension](https://raw.githubusercontent.com/Wiznet/Hardware-Files-of-WIZnet/master/04_Serial_to_Ethernet_Module/WIZ752SR-120/Pictures/WIZ752SR-120_Dimension.png)
+![WIZ752SR-120 Dimension](Pictures/WIZ752SR-120_Dimension.png)
 
 
