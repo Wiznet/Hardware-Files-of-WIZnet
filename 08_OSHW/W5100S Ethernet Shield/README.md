@@ -1,15 +1,21 @@
 # W5100S Ethernet Shield
 
 ## History
+**2019/02/15** 
+
+- Revision to 1.1V
+- W5100S package change - QFN
+
+- R3 changed, R19 added
+  - 12.3k - >> 12k + 300R
+
 **2018/12/04**
 
 - W5100S Ethernet Shield Initial Release
 
 ## Overview
 
-![W5100S Ethernet Shield](Pictures/.png)
-
-
+![W5100S Ethernet Shield](Pictures\W5100S Ethernet Shield.png)
 
 
 ## Features
@@ -29,12 +35,18 @@
   - TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE
 - Support Micro SD Card slot for storage
 
+-  Micro SD Card slot for storage
 
 
 
-## Pinout
+## Call-out
 
-![W5100S Ethernet Shield Pinout](Pictures/)
+![W5100S Ethernet Shield Callout](Pictures\W5100S_Ethernet_Shield_Callout.png)
+
+
+## Pin-out
+
+![W5100S Ethernet Shield Pinout](Pictures\W5100S_Ethernet_Shield_Pinout.png)
 
 
 ## Dimension
