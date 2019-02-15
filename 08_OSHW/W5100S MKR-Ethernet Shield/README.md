@@ -1,15 +1,19 @@
 # W5100S MKR-Ethernet Shield
 
 ## History
+**2019/02/15**
+
+- Revision to 1.1V
+- R3 changed, R19 added
+  - 12.3k - >> 12k + 300R
+
 **2018/12/04**
 
-- W5100S MKR-Ethernet Shield Initial Release
+- W5100S MKR-Ethernet Shield V1.0 Initial Release
 
 ## Overview
 
-![W5100S MKR-Ethernet Shield](Pictures/.png)
-
-
+![W5100S MKR-Ethernet Shield](Pictures\W5100S_MKR-Ethernet_Shield.png)
 
 
 ## Features
@@ -32,9 +36,9 @@
 
 
 
-## Pinout
+## Pin-out
 
-![W5100S MKR-Ethernet Shield Pinout](Pictures/)
+![W5100S MKR-Ethernet Shield Pinout](Pictures\W5100S_MKR-Ethernet_Shield_Pinout.png)
 
 
 ## Dimension
