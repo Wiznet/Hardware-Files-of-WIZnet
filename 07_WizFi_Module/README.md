@@ -7,6 +7,9 @@ WIZnet’s WizFi modules offer a quick, easy, and cost-effective way for device 
 ## Product Family
 
 - WizFi360
+  - WizFi360-EVB
+  - WizFi360io-C
+  - WizFi360io-H
 - ~~WizFi310~~
 - ~~WizFi250~~
 - ~~WizFi210/220~~
