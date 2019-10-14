@@ -7,7 +7,7 @@
 
 ## Overview
 
-![WizFi360io-H](Pictures/WIZ610io_1.png)
+![WizFi360io-H](Pictures/WizFi360-H.png)
 
 
 
