@@ -1,17 +1,17 @@
 # WizFi360-EVB
 
 ## History
+**2019/09/20**
+
+- Added KC certification
+
 **2019/07/19**
 
 - WizFi360-EVB V1.0 Initial Release
 
 ## Overview
 
-<<<<<<< HEAD
 ![WizFi360-EVB](Pictures/IMG_1353.png)
-=======
-![WizFi360-EVB](https://user-images.githubusercontent.com/9648281/61932528-9cc03500-afbe-11e9-888c-ede81982515f.JPG)
->>>>>>> 0fa2d0dd57e94ddb9ed98cb1e7b047ee345e55bb
 
 
 
@@ -67,7 +67,7 @@
 
   - Industrial grade (operating temperature range: -40 ° C ~ 85 ° C)
 
-  - CE, FCC certification 
+  - CE, FCC, KC certification 
 
 - ETC
 
