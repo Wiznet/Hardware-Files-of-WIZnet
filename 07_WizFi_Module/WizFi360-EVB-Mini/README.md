@@ -1,25 +1,23 @@
-# WizFi360-EVB
+# WizFi360-EVB-Mini
 
 ## History
-**2019/09/20**
-
 - Added KC certification
 
-**2019/07/19**
+**2019/10/18**
 
-- WizFi360-EVB V1.0 Initial Release
+- WizFi360-EVB-MiniV1.0 Initial Release
 
 ## Overview
 
-![WizFi360-EVB](Pictures/IMG_1353.png)
+![WizFi360-EVB](Pictures/WizFi360-mini3.png)
 
 
 
- [***WizFi360-EVB Official Wiki page***](https://wizwiki.net/wiki/doku.php?id=products:wizfi360:board:wizfi360-evb:start)
+ [***WizFi360-EVB-Mini Official Wiki page***]( https://wizwiki.net/wiki/doku.php/products:wizfi360:board:wizfi360-evb-mini:start )
 
   # 1.    Overview
 
-  This document describes WizFi360-EVB. WizFi360-EVB is a development board for experiment, test and verification of WizFi360. WizFi360-EVB can also be used as an Arduino shield.
+  This document describes WizFi360-EVB-Mini. WizFi360-EVB-Mini is a compact development board for experiment, test and verification of WizFi360. WizFi360-EVB-Mini is the same form factor as the NodeMCU V2. 
 
   WizFi360 is a low cost and low-power consumption industrial-grade WiFi module. It is compatible with IEEE802.11 b/g/n standard and supports SoftAP, Station and SoftAP+Station modes. The serial port baud rate can be up to 2Mbps, which can meet the requirement of various applications.
 
@@ -72,28 +70,5 @@
 - ETC
 
   - Built-in UART to USB chip
-- CP2104-GM
+    - CP2104-GM
     - Micro USB B Type Connector
-- UART Selector
-  - JP1, JP2, JP3
-  - 2.54mm Pin Header
-  - Built-in Sensors
-- Temprature/Humidity Sensor: DHT11
-    - CDS Sensor: GL5537
-- Built-in Tact Switchs
-  - System Reset Switch: S1
-  - WiFi Reset Switch: S2
-  - Built-in LED Indicators
-- D13 LED
-  - Built-in Level Shifters
-- The voltage of the RXD/TXD signal changes according to the main board platform voltage.
-  - Built-in DIP Switchs
-- UART RXD/TXD Selector: SW1
-    - UART RTS/CTS Selector: SW2
-- Sensor/RESET Pins Selector: SW3
-
-
-
-
-
-
