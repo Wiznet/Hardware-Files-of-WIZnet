@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\PCB_Project\Project Outputs for WIZ500SR_RP_EVB_RJ45\Pick Place\Pick Place for W5xx_EVB_RJ45.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-05-22
+Time:       13:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                          
+C4         1nF/2kV           TopLayer CAPC4620X180X75LL50T35 426.179       404.532       0        "Chip Capacitor, 1000 pF, +/- 10%, 2000 V, -55 to 125 degC, 1808 (4520 Metric), RoHS, Tape and Reel" 
+P1         RJ45_J1B1211CCD   TopLayer RJ45-J1B1211CCD        338.189       881.890       270      ""                                                                                                   
+D5         LED_SMD           TopLayer LED-0603-RED           640.752       1601.380      180      ""                                                                                                   
+D4         LED_SMD           TopLayer LED-0603-RED           276.570       1465.549      0        ""                                                                                                   
+D3         LED_SMD           TopLayer LED-0603-RED           276.570       1402.557      0        ""                                                                                                   
+D2         LED_SMD           TopLayer LED-0603-RED           276.570       1331.691      0        ""                                                                                                   
+D1         LED_SMD           TopLayer LED-0603-RED           276.569       1268.698      0        ""                                                                                                   
+R2         1K                TopLayer RES-0603               457.672       1337.594      0        ""                                                                                                   
+R5         470R              TopLayer RES-0603               642.712       1524.604      0        ""                                                                                                   
+R4         1K                TopLayer RES-0603               457.673       1436.020      0        ""                                                                                                   
+R3         1K                TopLayer RES-0603               457.673       1386.807      0        ""                                                                                                   
+R1         1K                TopLayer RES-0603               457.672       1286.413      0        ""                                                                                                   
+J1         "1x12 Pin Header" TopLayer 12PIN_HEADER_2mm       944.882       885.827       90       ""                                                                                                   
+J2         1x2PIN_Header     TopLayer 2PIN_HEADER            431.969       1590.236      0        ""                                                                                                   
+C3         0.1uF             TopLayer CAP_0603               775.529       1411.523      90       ""                                                                                                   
+C1         0.1uF             TopLayer CAP_0603               759.904       827.641       270      ""                                                                                                   
+C2         0.1uF             TopLayer CAP_0603               831.851       1411.260      270      ""                                                                                                   
